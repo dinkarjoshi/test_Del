@@ -1,0 +1,3 @@
+This is a line 1 of feature4 branch file
+space
+line
